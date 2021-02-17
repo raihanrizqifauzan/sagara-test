@@ -1,4 +1,10 @@
 ###################
+Setelah di Clone, Mohon ganti nama folder dengan "sagara-tes". Simpan di Xampp/htdocs
+###################
+
+
+
+###################
 What is CodeIgniter
 ###################
 
