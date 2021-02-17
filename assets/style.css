@@ -1,0 +1,75 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header {
+	height: 30px;
+	padding: 20px;
+	background-color: #222;
+	color: #fff;
+	font-size: 18pt;
+}
+
+.content {
+	padding: 30px 50px;
+	width: 80%;
+}
+
+.content .list {
+	width: 100%;
+	border-collapse: collapse;
+	border: 1px solid #ddd;
+	margin-top: 10px;
+}
+
+.content table th, .content table td {
+	padding: 5px;
+}
+
+.footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: #222;
+	color: white;
+	text-align: center;
+	padding: 10px;
+}
+
+.success {
+	color: #fff;
+	background-color: #2ecc71;
+}
+
+.info {
+	color: #fff;
+	background-color: #3498db;
+}
+
+.danger {
+	color: #fff;
+	background-color: #e74c3c;
+}
+
+button {
+	padding: 10px;
+	border: none;
+	cursor: pointer;
+	border-radius: 5px;
+}
+
+button:hover {
+	background-color: #222;
+	color: #fff;
+}
+
+p {
+	text-align: center;
+}
+
